@@ -1,0 +1,64 @@
+2018/11/20 01:42:08 [error] 9964#9964: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 01:42:31 [error] 9964#9964: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 01:50:27 [error] 9964#9964: *18 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Undefined class constant 'Name' in /home/vlad/projects/php/www/my_first_project/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 11" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 01:52:32 [error] 9964#9964: *27 FastCGI sent in stderr: "PHP message: PHP Recoverable fatal error:  Object of class First could not be converted to string in /home/vlad/projects/php/www/my_first_project/index.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 01:55:17 [error] 9964#9964: *27 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 01:55:32 [error] 9964#9964: *27 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 01:55:33 [error] 9964#9964: *27 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:04:58 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:05:20 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:05:25 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:05:36 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:05:51 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:05:59 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vlad/projects/php/www/my_first_project/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:06:47 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: p in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:06:59 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant First - assumed 'First' (this will throw an Error in a future version of PHP) in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:07:07 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant First - assumed 'First' (this will throw an Error in a future version of PHP) in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 02:07:19 [error] 9964#9964: *56 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant First - assumed 'First' (this will throw an Error in a future version of PHP) in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 21:29:46 [error] 1194#1194: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant First - assumed 'First' (this will throw an Error in a future version of PHP) in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 22:47:25 [error] 9580#9580: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant First - assumed 'First' (this will throw an Error in a future version of PHP) in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/20 22:56:04 [error] 9580#9580: *4 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected end of file in /home/vlad/projects/php/www/my_first_project/index.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/21 18:16:53 [error] 1159#1159: *50 FastCGI sent in stderr: "PHP message: PHP Warning:  array_rand() expects parameter 2 to be integer, string given in /home/vlad/projects/php/www/my_first_project/index.php on line 12
+PHP message: PHP Warning:  array_rand() expects parameter 2 to be integer, string given in /home/vlad/projects/php/www/my_first_project/index.php on line 12
+PHP message: PHP Warning:  array_rand() expects parameter 2 to be integer, string given in /home/vlad/projects/php/www/my_first_project/index.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/21 18:16:53 [error] 1159#1159: *50 FastCGI sent in stderr: "PHP message: PHP Warning:  array_rand() expects parameter 2 to be integer, string given in /home/vlad/projects/php/www/my_first_project/index.php on line 12
+PHP message: PHP Warning:  array_rand() expects parameter 2 to be integer, string given in /home/vlad/projects/php/www/my_first_project/index.php on line 12
+PHP message: PHP Warning:  array_rand() expects parameter 2 to be integer, string given in /home/vlad/projects/php/www/my_first_project/index.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/21 18:27:27 [error] 1159#1159: *79 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '$f' (T_VARIABLE) in /home/vlad/projects/php/www/my_first_project/index.php on line 31" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
+2018/11/21 18:28:43 [error] 1159#1159: *82 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '$f' (T_VARIABLE) in /home/vlad/projects/php/www/my_first_project/index.php on line 31" while reading response header from upstream, client: 127.0.0.1, server: my_first_project.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.2-fpm.sock:", host: "my_first_project.loc"
